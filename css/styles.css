@@ -7427,3 +7427,12 @@ form .row:first-child .floating-label-form-group {
 
 .btn-social {
   margin-bottom: 0.5rem; }
+
+.btn-white {
+  color: white
+}
+
+.btn-white:hover {
+  color: white;
+  text-decoration: none;
+}
